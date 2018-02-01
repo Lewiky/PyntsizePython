@@ -11,6 +11,7 @@
 * Ranges
 * Data structures (Lists, Dictionaries, Tuples)
 * Functions (optional arguments, multiple return, generators)
+* File I/O/ command line args
 * Functional stuff (higher order functions, list comprehensions)
 * boilerplate(`__name__ == "__main__"`) 
 * Modules (Pip, imports)
